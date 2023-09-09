@@ -5,7 +5,7 @@ Markup / Front-End Developer
 ----------------------------
 
 * 🌍  I'm based in Ukraine
-* ✉️  You can contact me at [artem.shuba72@gmail.com](mailto:artem.shuba72@gmail.com)
+* ✉️  You can contact me at [artem.shuba.work@gmail.com](mailto:artem.shuba.work@gmail.com)
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  Learn hard English in free time
 
